@@ -1,0 +1,27 @@
+{
+  "homeInfo": {
+    "title": "首页",
+    "href": "page/teacher/selection.jsp"
+  },
+  "logoInfo": {
+    "title": "教师",
+    "image": "images/HQDB34~MCGC8CBSCIO0OP7F.jpg",
+    "href": ""
+  },
+  "menuInfo": [
+    {
+      "title": "常规管理",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "选课情况",
+          "href": "page/teacher/selection.jsp",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        }
+          ]
+        }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "homeInfo": {
+    "title": "首页",
+    "href": "page/admin/student.jsp"
+  },
+  "logoInfo": {
+    "title": "管理员",
+    "image": "images/HQDB34~MCGC8CBSCIO0OP7F.jpg",
+    "href": ""
+  },
+  "menuInfo": [
+    {
+      "title": "常规管理",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "学生信息管理",
+          "href": "page/admin/student.jsp",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "教师信息管理",
+          "href": "page/admin/teacher.jsp",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "课程信息管理",
+          "href": "page/admin/curriculum.jsp",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "查询选课",
+          "href": "page/admin/selection.jsp",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        }
+      ]
+        }
+  ]
+}
